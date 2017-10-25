@@ -1,0 +1,13 @@
+ARANAN KELIME		EN YAKIN KELIME		DONUSUM
+
+absorbsion		absorbs		ns		(INSERT)		os		(INSERT)		is		(INSERT)
+abundacies		abundance		se		(INSERT)		ic		(CHANGE)
+accomadate		accommodate		ao		(DETELE)
+acheivments		achievements		ve		(CHANGE)		hi		(DETELE)
+acquiantence		acquaintance		ai		(CHANGE)
+acquiantences		acquaintances		ai		(CHANGE)
+acustommed		accustomed		mo		(INSERT)
+belives		belies		vi		(INSERT)
+beng		beg		ne		(INSERT)
+bizzare		bizarre		ar		(CHANGE)
+taht		tat		ha		(INSERT)

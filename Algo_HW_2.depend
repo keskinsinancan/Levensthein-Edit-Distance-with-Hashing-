@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508927889 source:c:\users\sinan.keskin\desktop\algo\algo_hw_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
